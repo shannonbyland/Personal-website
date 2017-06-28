@@ -1,0 +1,29 @@
+  .card-right {
+    display: flex;
+    justify-content: center;
+  }
+
+
+  .card-left {
+    display: flex;
+    justify-content: center;
+  }
+
+  img {
+    width: 300px;
+  }
+
+.title {
+  text-align: justify;
+  width: 100px;
+}
+
+.decription {
+  text-align: justify;
+  width: 100px;
+}
+
+.link {
+  text-align: justify;
+  width: 100px;
+}
