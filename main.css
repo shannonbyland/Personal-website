@@ -14,16 +14,16 @@
   }
 
 .title {
-  text-align: justify;
+  text-align: right;
   width: 100px;
 }
 
 .decription {
-  text-align: justify;
+  text-align: right;
   width: 100px;
 }
 
 .link {
-  text-align: justify;
+  text-align: right;
   width: 100px;
 }
