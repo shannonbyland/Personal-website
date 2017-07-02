@@ -1,3 +1,39 @@
 img {
   width: 300px;
 }
+
+#html5 {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#css3 {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#js {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#react {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#redux {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#mongodb {
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
