@@ -15,12 +15,26 @@ img {
   border-top: 1px solid grey;
   padding-top: 50px;
   margin-top: 50px;
+  color: #00bcd4;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
 }
 
 #about-paragraph {
   border-bottom: 1px solid grey;
   padding-bottom: 50px;
   margin-bottom: 50px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#header {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#tech {
+  color: #00bcd4;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .bottom-container {
