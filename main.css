@@ -1,7 +1,29 @@
+#linkedin, #github {
+  display: flex;
+  align-items: center;
+}
+
 img {
   width: 300px;
 }
 
 #html5, #css3, #js, #react, #redux, #mongodb {
   width: 100px;
+}
+
+#about {
+  border-top: 1px solid grey;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
+#about-paragraph {
+  border-bottom: 1px solid grey;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+.bottom-container {
+  display: flex;
+  justify-content: center;
 }
