@@ -4,11 +4,7 @@
 }
 
 img {
-  width: 300px;
-}
-
-#html5, #css3, #js, #react, #redux, #mongodb {
-  width: 100px;
+  width: 500px;
 }
 
 #about {
@@ -40,4 +36,8 @@ img {
 .bottom-container {
   display: flex;
   justify-content: center;
+}
+
+.website-container {
+  padding: 50px;
 }
