@@ -33,6 +33,14 @@ img {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+#website-description {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
 .bottom-container {
   display: flex;
   justify-content: center;
@@ -47,7 +55,7 @@ img {
 .website-container {
   padding: 50px;
   margin: 20px;
-  background-color: #e8e8e8;
+  background-color: #fdefff;
 }
 
 .image {
@@ -77,10 +85,10 @@ img {
   opacity: 1;
 }
 
-.text {
+/*.text {
   background-color: #b2b2b2;
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 16px;
   padding: 16px 32px;
-}
+}*/
