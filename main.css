@@ -37,8 +37,18 @@ img {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.tech-container {
+  padding: 30px;
+  margin: 50px;
+}
+
+li {
+  list-style-type: square;
+}
+
 #tech {
   color: #00bcd4;
+  margin: 20px;
   font-weight: bold;
   font-family: 'Roboto Condensed', sans-serif;
 }
